@@ -3,7 +3,7 @@
 ## Project Identity
 - **Name:** StructScript
 - **Mod ID:** `structscript`
-- **Version:** `${version}` (Resolved at build time)
+- **Version:** `1.0.3` (Resolved at build time)
 
 ## Technical Summary
 The **StructScript** mod provides a specialized toolkit designed to dynamically load, preview, and place saved structural schematics into the Minecraft world. During initialization, the mod provisions a dedicated directory (`config/structscript/structures/`) intended to house external schematic files. It introduces the `StructureBlueprintItem`, a custom tool that holds NBT data pointing to a specific schematic. Players holding a blueprint can utilize custom client-to-server networking (`RotatePacket`) to adjust the structure's orientation in real-time before finalizing the placement block-by-block.
