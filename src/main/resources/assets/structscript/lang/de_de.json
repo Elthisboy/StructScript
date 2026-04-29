@@ -1,0 +1,14 @@
+{
+  "key.structscript.rotate": "Bauplan drehen",
+  "category.structscript": "StructScript",
+
+  "item.structscript.structure_blueprint": "Struktur-Bauplan",
+  "item.structscript.structure_blueprint.named": "Bauplan: %s",
+
+  "message.structscript.collision_warning": "§c⚠ Blöcke im Weg. Erneut klicken zum Bestätigen.",
+  "message.structscript.given_one": "[StructScript] %dx %s an %s gegeben",
+  "message.structscript.given_many": "[StructScript] %dx %s an %d Spieler gegeben",
+  "message.structscript.given_self": "[StructScript] %dx %s erhalten",
+  "message.structscript.reload": "[StructScript] Cache geleert — Schemata werden beim nächsten Einsatz neu geladen.",
+  "message.structscript.file_not_found": "[StructScript] Schema nicht gefunden: %s"
+}

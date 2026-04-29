@@ -1,0 +1,21 @@
+{
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-03-12 19:45:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-03-12 19:45:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-03-12 19:45:27 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

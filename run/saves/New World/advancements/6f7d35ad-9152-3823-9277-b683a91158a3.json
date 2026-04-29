@@ -1,0 +1,40 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-03-12 22:59:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-03-12 22:59:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-03-12 22:59:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-03-12 22:59:12 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/pedestal": {
+    "criteria": {
+      "has_item_minecraft_stone_brick_slab_1": "2026-03-12 22:59:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2026-03-12 22:59:12 -0300",
+      "minecraft:plains": "2026-03-12 22:59:15 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3955
+}

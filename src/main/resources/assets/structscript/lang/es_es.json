@@ -1,0 +1,14 @@
+{
+  "key.structscript.rotate": "Rotar Plano",
+  "category.structscript": "StructScript",
+
+  "item.structscript.structure_blueprint": "Plano de Estructura",
+  "item.structscript.structure_blueprint.named": "Plano: %s",
+
+  "message.structscript.collision_warning": "§c⚠ Hay bloques en el camino. Haz clic de nuevo para confirmar.",
+  "message.structscript.given_one": "[StructScript] Entregado %dx %s a %s",
+  "message.structscript.given_many": "[StructScript] Entregado %dx %s a %d jugadores",
+  "message.structscript.given_self": "[StructScript] Entregado %dx %s",
+  "message.structscript.reload": "[StructScript] Caché limpiado — los esquemas se recargarán en el próximo uso.",
+  "message.structscript.file_not_found": "[StructScript] Esquema no encontrado: %s"
+}

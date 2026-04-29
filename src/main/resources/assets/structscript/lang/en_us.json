@@ -1,0 +1,14 @@
+{
+  "key.structscript.rotate": "Rotate Blueprint",
+  "category.structscript": "StructScript",
+
+  "item.structscript.structure_blueprint": "Structure Blueprint",
+  "item.structscript.structure_blueprint.named": "Blueprint: %s",
+
+  "message.structscript.collision_warning": "§c⚠ Blocks in the way. Click again to confirm.",
+  "message.structscript.given_one": "[StructScript] Given %dx %s to %s",
+  "message.structscript.given_many": "[StructScript] Given %dx %s to %d players",
+  "message.structscript.given_self": "[StructScript] Given %dx %s",
+  "message.structscript.reload": "[StructScript] Cache cleared — schematics will reload on next use.",
+  "message.structscript.file_not_found": "[StructScript] Schematic not found: %s"
+}

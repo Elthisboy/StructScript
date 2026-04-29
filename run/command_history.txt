@@ -1,0 +1,50 @@
+/give @p structscript:structure_blueprint[custom_data={structure:"house"}
+/give @p structscript:structure_blueprint[custom_data={structure:"house.schem"}
+/give @p structscript:structure_blueprint[custom_data={structure:"house"}]
+/give @p structscript:structure_blueprint[custom_data={file:"house"}]
+/give @p structscript:structure_blueprint[custom_data={structure:"house"}]
+/give @p structscript:structure_blueprint[custom_data={file:"house"}]
+/structscript give house
+/structscript give house 1
+/give @p structscript:structure_blueprint[custom_data={file:"house"}]
+/structscript give house 1
+/give @p structscript:structure_blueprint[custom_data={file:"house"}]
+/structscript give house 1
+/give @p structscript:structure_blueprint[custom_data={file:"house"}]
+/weather clear
+/time set day
+/give @p structscript:structure_blueprint[custom_data={file:"house"}]
+//set stone
+/time set day
+//copy
+//schem load wall1
+//schem save wall1
+/structscript reload
+/structscript give wall1 1
+//copy
+/schem save tower1
+/structscript give tower1
+/structscript give tower1 1
+/structscript give wall1 1
+/structscript give house 1
+/structscript give chicki 1
+/structscript give wall1 2
+/time set day
+/structscript give wall1 1
+/structscript give tower1 1
+/structscript give house 1
+/structscript give chicki 1
+//copy
+/schem save turret1
+/structscript give turret 1
+/structscript give turret1 1
+//copy
+/schem save turret2
+/structscript give turret2 1
+//set stone
+//undo
+//pos2
+//set stone
+/structscript give market 1
+/structscript give market1 1
+/structscript give market2 1

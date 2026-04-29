@@ -1,0 +1,14 @@
+{
+  "key.structscript.rotate": "Girar Planta",
+  "category.structscript": "StructScript",
+
+  "item.structscript.structure_blueprint": "Planta de Estrutura",
+  "item.structscript.structure_blueprint.named": "Planta: %s",
+
+  "message.structscript.collision_warning": "§c⚠ Há blocos no caminho. Clique novamente para confirmar.",
+  "message.structscript.given_one": "[StructScript] Entregue %dx %s para %s",
+  "message.structscript.given_many": "[StructScript] Entregue %dx %s para %d jogadores",
+  "message.structscript.given_self": "[StructScript] Recebido %dx %s",
+  "message.structscript.reload": "[StructScript] Cache limpo — os esquemas serão recarregados no próximo uso.",
+  "message.structscript.file_not_found": "[StructScript] Esquema não encontrado: %s"
+}
