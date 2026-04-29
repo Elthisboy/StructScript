@@ -33,5 +33,5 @@ config/
 ```
 
 ## Developer Info
-- **Author:** Me! (elthisboy)
+- **Author:** El_this_boy
 - **Platform:** Fabric 1.21.1
